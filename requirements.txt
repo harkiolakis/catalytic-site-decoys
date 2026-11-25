@@ -1,0 +1,11 @@
+numpy>=2.0
+scipy>=1.13
+pandas>=2.2
+numba>=0.60
+matplotlib>=3.8
+tabulate>=0.9
+biopython>=1.83
+pyjess==0.10.1
+enzymm==0.5.0
+rich>=13
+tmtools>=0.2

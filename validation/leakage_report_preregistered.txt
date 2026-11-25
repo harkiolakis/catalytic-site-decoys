@@ -1,0 +1,125 @@
+validation chains parsed: 193 / 202; unparsed: [('2bbk', 'B', '"Chain \'B\' not found in /sessions/rcw-01'), ('4v4e', 'A', "[Errno 2] No such file or directory: '/s"), (nan, nan, "[Errno 2] No such file or directory: '/s"), ('4v40', 'A', "[Errno 2] No such file or directory: '/s"), (nan, nan, "[Errno 2] No such file or directory: '/s"), ('1ds2', 'A', '"Chain \'A\' not found in /sessions/rcw-01'), ('1k82', 'I', "Chain 'I' in /sessions/rcw-01ww2ayjzwz7m"), ('2tdt', 'AA', '"Chain \'AA\' not found in /sessions/rcw-0'), (nan, nan, "[Errno 2] No such file or directory: '/s")]
+chains dropped for >30% identity to a benchmark chain: 113
+  ('1a4s', 'A') -> ['1o04', 'A'] identity 0.44
+  ('1abr', 'A') -> ['1pj5', 'A'] identity 0.31
+  ('1afr', 'A') -> ['1bjp', 'B'] identity 0.38
+  ('1am2', 'A') -> ['1pjq', 'A'] identity 0.32
+  ('1apy', 'B') -> ['2tmd', 'A'] identity 0.34
+  ('1auo', 'A') -> ['1tdj', 'A'] identity 0.31
+  ('1aw8', 'B') -> ['1itx', 'A'] identity 0.36
+  ('1b6b', 'A') -> ['1mah', 'A'] identity 0.33
+  ('1bsz', 'A') -> ['1nhx', 'A'] identity 0.31
+  ('1bwd', 'A') -> ['1dgs', 'A'] identity 0.33
+  ('1bwp', 'A') -> ['1wab', 'A'] identity 1.00
+  ('1c0p', 'A') -> ['1f48', 'A'] identity 0.31
+  ('1cb8', 'A') -> ['1b2m', 'A'] identity 0.31
+  ('1chd', 'A') -> ['1bjp', 'B'] identity 0.33
+  ('1cqq', 'A') -> ['1uok', 'A'] identity 0.31
+  ('1d8c', 'A') -> ['1n8i', 'A'] identity 0.58
+  ('1d8d', 'B') -> ['1a95', 'A'] identity 0.31
+  ('1dco', 'A') -> ['5cox', 'A'] identity 0.32
+  ('1dhp', 'A') -> ['1aop', 'A'] identity 0.32
+  ('1dii', 'A') -> ['1vao', 'A'] identity 0.34
+  ('1djl', 'A') -> ['1kas', 'A'] identity 0.33
+  ('1djo', 'A') -> ['3eca', 'A'] identity 0.49
+  ('1dpx', 'A') -> ['1zk7', 'A'] identity 0.33
+  ('1dqa', 'A') -> ['1agy', 'A'] identity 0.34
+  ('1e19', 'A') -> ['1b7b', 'A'] identity 0.47
+  ('1e2a', 'A') -> ['2c3m', 'A'] identity 0.41
+  ('1e3v', 'A') -> ['1ei5', 'A'] identity 0.33
+  ('1ecf', 'A') -> ['1adn', 'A'] identity 0.32
+  ('1ecl', 'A') -> ['1im5', 'A'] identity 0.31
+  ('1eg7', 'A') -> ['1vas', 'A'] identity 0.31
+  ('1ehk', 'A') -> ['1otg', 'A'] identity 0.32
+  ('1et0', 'A') -> ['1w1o', 'A'] identity 0.30
+  ('1eu1', 'A') -> ['1tmo', 'A'] identity 0.47
+  ('1ey2', 'A') -> ['1pyl', 'A'] identity 0.35
+  ('1eyq', 'A') -> ['2npx', 'A'] identity 0.31
+  ('1fr2', 'B') -> ['1dqr', 'A'] identity 0.34
+  ('1ggt', 'A') -> ['1d6o', 'A'] identity 0.34
+  ('1gim', 'A') -> ['1bjp', 'B'] identity 0.36
+  ('1gog', 'A') -> ['1d6o', 'A'] identity 0.37
+  ('1gpm', 'A') -> ['1qdl', 'B'] identity 0.30
+  ('1hto', 'A') -> ['2bvc', 'A'] identity 1.00
+  ('1hzd', 'A') -> ['1ey3', 'A'] identity 0.34
+  ('1hzf', 'A') -> ['1mt5', 'A'] identity 0.30
+  ('1i1e', 'A') -> ['1epw', 'A'] identity 1.00
+  ('1i78', 'A') -> ['2esd', 'A'] identity 0.32
+  ('1idt', 'A') -> ['1v0y', 'A'] identity 0.32
+  ('1iph', 'A') -> ['1d6o', 'A'] identity 0.33
+  ('1j00', 'A') -> ['1bf2', 'A'] identity 0.30
+  ('1jhf', 'A') -> ['2qf7', 'A'] identity 0.31
+  ('1jqn', 'A') -> ['1dhf', 'A'] identity 0.31
+  ('1k30', 'A') -> ['1bjp', 'B'] identity 0.36
+  ('1k32', 'A') -> ['1b2m', 'A'] identity 0.34
+  ('1k4l', 'A') -> ['1jrp', 'B'] identity 0.31
+  ('1knp', 'A') -> ['1yq4', 'A'] identity 0.31
+  ('1kqf', 'A') -> ['1pyl', 'A'] identity 0.30
+  ('1l1d', 'A') -> ['1f8r', 'A'] identity 0.35
+  ('1l1l', 'A') -> ['1bjp', 'B'] identity 0.33
+  ('1lam', 'A') -> ['1wpo', 'A'] identity 0.31
+  ('1m9c', 'A') -> ['1ls3', 'A'] identity 0.32
+  ('1mek', 'A') -> ['1js4', 'A'] identity 0.33
+  ('1mud', 'A') -> ['1o04', 'A'] identity 0.33
+  ('1nfs', 'A') -> ['2a84', 'A'] identity 0.33
+  ('1nmw', 'A') -> ['1ct9', 'A'] identity 0.31
+  ('1nsf', 'A') -> ['1uqt', 'A'] identity 0.31
+  ('1nw9', 'B') -> ['1xny', 'A'] identity 0.31
+  ('1o08', 'A') -> ['1kae', 'A'] identity 0.31
+  ('1odt', 'C') -> ['1l7a', 'A'] identity 0.99
+  ('1og1', 'A') -> ['1jxa', 'A'] identity 0.33
+  ('1ogy', 'E') -> ['1adn', 'A'] identity 0.32
+  ('1onw', 'A') -> ['1bjp', 'B'] identity 0.35
+  ('1oxa', 'A') -> ['1xqd', 'A'] identity 0.33
+  ('1p1x', 'A') -> ['1r30', 'A'] identity 0.32
+  ('1pix', 'A') -> ['1pyl', 'A'] identity 0.31
+  ('1q51', 'A') -> ['2vss', 'A'] identity 0.32
+  ('1q91', 'A') -> ['1d6m', 'A'] identity 0.31
+  ('1qjd', 'A') -> ['1yq4', 'A'] identity 0.30
+  ('1qlh', 'A') -> ['1teh', 'B'] identity 0.62
+  ('1qmh', 'A') -> ['1vie', 'A'] identity 0.31
+  ('1qrz', 'A') -> ['1rtf', 'B'] identity 0.37
+  ('1req', 'A') -> ['1cb7', 'A'] identity 0.35
+  ('1ruv', 'A') -> ['2rnf', 'A'] identity 0.45
+  ('1s2k', 'A') -> ['1tah', 'B'] identity 0.30
+  ('1s6l', 'A') -> ['1ci8', 'A'] identity 0.33
+  ('1sll', 'A') -> ['1f9z', 'B'] identity 0.30
+  ('1sox', 'A') -> ['2dd5', 'C'] identity 0.30
+  ('1u1z', 'A') -> ['1mok', 'A'] identity 0.34
+  ('1uf7', 'A') -> ['1fo6', 'A'] identity 0.96
+  ('1ula', 'A') -> ['1rr6', 'A'] identity 1.00
+  ('1vnc', 'A') -> ['1qfn', 'A'] identity 0.35
+  ('1w0h', 'A') -> ['1o98', 'A'] identity 0.31
+  ('1wgi', 'A') -> ['1do6', 'A'] identity 0.32
+  ('1xld', 'A') -> ['1dup', 'A'] identity 0.33
+  ('1yph', 'C') -> ['1bhg', 'A'] identity 0.33
+  ('1z9h', 'A') -> ['1bjp', 'B'] identity 0.30
+  ('1zrz', 'A') -> ['1stc', 'E'] identity 0.39
+  ('206l', 'A') -> ['2pfl', 'A'] identity 0.33
+  ('2abk', 'A') -> ['1dgk', 'N'] identity 0.31
+  ('2ace', 'A') -> ['1mah', 'A'] identity 0.60
+  ('2dbt', 'A') -> ['1g72', 'A'] identity 0.31
+  ('2frv', 'B') -> ['1cc1', 'L'] identity 0.36
+  ('2hgs', 'A') -> ['1c17', 'M'] identity 0.31
+  ('2hsa', 'A') -> ['1oya', 'A'] identity 0.41
+  ('2id0', 'A') -> ['1sml', 'A'] identity 0.32
+  ('2ixj', 'A') -> ['1mah', 'A'] identity 0.33
+  ('2pec', 'A') -> ['2ayh', 'A'] identity 0.30
+  ('2sns', 'A') -> ['1amy', 'A'] identity 0.33
+  ('2tpl', 'A') -> ['1ax4', 'A'] identity 0.49
+  ('3a15', 'A') -> ['1dw9', 'D'] identity 0.30
+  ('3bpt', 'A') -> ['1ey3', 'A'] identity 0.32
+  ('3gdp', 'A') -> ['1pya', 'A'] identity 0.30
+  ('3pca', 'B') -> ['1qe3', 'A'] identity 0.30
+  ('3thi', 'A') -> ['1pya', 'A'] identity 0.35
+  ('7atj', 'A') -> ['1i19', 'B'] identity 0.31
+pairs: 1118 -> 170
+ec_stratum     tm_stratum
+diff_ec_class  TM<0.3        50
+               TM0.3-0.5     28
+               TM>=0.5        1
+same_ec3       TM<0.3        23
+               TM0.3-0.5      4
+               TM>=0.5        2
+same_ec_class  TM<0.3        45
+               TM0.3-0.5     17

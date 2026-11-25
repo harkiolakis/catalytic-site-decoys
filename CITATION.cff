@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "catalytic-site-decoys: decoys, baselines and pre-registered validation for evaluating catalytic-site comparison"
+version: 1.0.0
+date-released: 2026-11-25
+license: MIT
+repository-code: "https://github.com/harkiolakis/catalytic-site-decoys"
+authors:
+  - family-names: Harkiolakis
+    given-names: Nicholas
+    affiliation: University of Nicosia
+keywords:
+  - catalytic site
+  - structural template matching
+  - benchmarking
+  - negative controls
+  - enzyme

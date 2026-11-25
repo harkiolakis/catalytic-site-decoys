@@ -1,0 +1,28 @@
+{
+  "frozen_at": "2026-11-24T11:10:30.590255Z",
+  "v12_params": {
+    "d_cut": 3.0,
+    "d0": 2.0,
+    "seed_tol": 2.0,
+    "max_seeds": 3000,
+    "n_refine": 3,
+    "w_desc": 0.0,
+    "min_chem": 0.2
+  },
+  "significance_threshold": 0.248651,
+  "threshold_rule": "max of 95th percentiles of v12 score over compact- and spatial-matched decoys on the 691-pair benchmark (training set)",
+  "decoy_percentiles": {
+    "compact": 0.248651,
+    "spatial": 0.235425,
+    "random": 0.165567,
+    "composition": 0.174595
+  },
+  "sha256": {
+    "rerun/v12.py": "cbc36401df61925a73940109781b0248283f5d117099334cec3f7173f9126b81",
+    "rerun/run_v12.py": "41bee7f28c1142d4b23a9764418a6e3fd19b16aef70769f509b2b78fed38097f",
+    "validation/select_validation.py": "456bb5a431c4ed9a365529e6884cbda0ce61ae1728193b2de8ada3a2a2f1ac40",
+    "validation/validation_pairs.csv": "31e47b993e8513180b103fdbef0f7d821301f304fb407f2b9b7015d7227a1b28",
+    "validation/validation_entries.csv": "7f48bd9827700e9f4caf73aeaed291aeaa0086ba97733b820654a0b277334073",
+    "validation/validation_sites.json": "37d45cae40141151cb482d4e2346fba90ad69eb1de35295de06639da45296e19"
+  }
+}

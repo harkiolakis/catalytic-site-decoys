@@ -1,0 +1,9 @@
+{
+  "title": "catalytic-site-decoys: decoys, baselines and pre-registered validation for evaluating catalytic-site comparison",
+  "upload_type": "software",
+  "description": "Code, input data and per-pair results for the manuscript 'Compactness, not catalytic geometry, drives decoy discrimination in catalytic-site comparison'. Includes two decoy generators (random, surface, sequence-, composition-, compactness- and distance-matched), same-input Cα baselines, an octant-descriptor aligner, a side-chain matcher and its ablations, Jess and Enzyme Motif Miner protocols, a 924-pair M-CSA benchmark and a pre-registered independent validation set with frozen configuration and SHA-256 fingerprints.",
+  "creators": [{"name": "Harkiolakis, Nicholas", "affiliation": "University of Nicosia"}],
+  "license": "MIT",
+  "keywords": ["catalytic site", "structural template matching", "benchmarking", "negative controls", "enzyme", "M-CSA"],
+  "version": "1.0.0"
+}

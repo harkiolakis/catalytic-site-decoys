@@ -1,0 +1,9 @@
+structures/
+structures_validation/
+__pycache__/
+*.pyc
+validation/trace_cache.pkl
+validation/hssp_cache.json
+validation/leak_cache.json
+benchmark/casestudy_candidates.csv
+benchmark/v12_casestudy_candidates.csv
