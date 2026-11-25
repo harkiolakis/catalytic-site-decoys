@@ -1,5 +1,7 @@
 # catalytic-site-decoys
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24529286.svg)](https://doi.org/10.5281/zenodo.24529286)
+
 Decoys, baselines and a pre-registered validation set for evaluating methods that compare enzyme catalytic sites.
 
 This repository accompanies the manuscript **“Compactness, not catalytic geometry, drives decoy discrimination in catalytic-site comparison”** (N. Harkiolakis, submitted). It contains all code, input data and per-pair results needed to reproduce every table and figure.
@@ -142,4 +144,4 @@ Code: MIT licence (`LICENSE`). Catalytic-residue annotations, mechanistic roles 
 
 ## Citation
 
-Please cite the manuscript and this archive (see `CITATION.cff`).
+Please cite the manuscript and this archive: Harkiolakis, N. (2026). *catalytic-site-decoys* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.24529286 (see also `CITATION.cff`).
